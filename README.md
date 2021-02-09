@@ -4,3 +4,8 @@
 
 # Hate - what is it?
 * the intense dislike
+
+#Programming
+* Love it or hate it?
+
+We are going to love it. But when?
