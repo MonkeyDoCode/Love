@@ -1,9 +1,9 @@
 # Love - What is it?
 * What is the opposite of love?
-* the opposite is indifference.Yes
+* The opposite is indifference.
 
 # Hate - what is it?
-* the intense dislike
+* The intense dislike.
 
 # Programming
 * Love it or hate it?
